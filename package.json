@@ -1,0 +1,16 @@
+{
+  "name": "initial-course-repository",
+  "version": "1.0.0",
+  "description": "initial-course",
+  "main": "index.js",
+  "scripts": {
+    "test": "stylelint './**/*.css'",
+    "lint:fix": "stylelint './**/*.css' --fix"
+  },
+  "keywords": [],
+  "author": "Maximumstart",
+  "license": "ISC",
+  "dependencies": {
+    "stylelint": "9.3.0"
+  }
+}
